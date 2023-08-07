@@ -5,7 +5,7 @@ Python notebook for my medium article on Transfer Learning.
 - Read the article on theory of transfer learning [here.](https://medium.com/@udaybeswal/transfer-learning-leveraging-existing-knowledge-for-powerful-ai-17d297e32a2)
 
 ---
-This notebook is a demonstration on how to perform transfer learning using TensorFlow and tf.data to classify flower species. The popular InceptionV3 model has been pre-trained on ImageNet dataset and fine-tuned for the flower classification task.
+This notebook is a demonstration on how to perform transfer learning using TensorFlow and tf.data to classify flower species. The popular InceptionV3 model has been pre-trained and fine-tuned for the flower classification task.
 
 Requirements:
 
